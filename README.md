@@ -5,7 +5,7 @@
 Letakan gambar aplikasi disini
 
 ## Built With<br>
-Komponen apa saja yang dikerjakan untuk membuat aplikasi
+Flutter
 ## Created By
 Leo Bimo Aryaputranto<br>
 ## Mata Kuliah
