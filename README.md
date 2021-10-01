@@ -1,5 +1,5 @@
 # sumpah_pemuda_leo_bimo
-{{Nama Aplikasi}} ({{ Kode Project / tugas }})
+{{SumpahPemuda}} ({{ Tugas ke #2 }})
 {{ Diskripsi Project }}
 
 Screenshot
