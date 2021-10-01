@@ -2,24 +2,13 @@
 {{SumpahPemuda}} ({{ Tugas ke #2 }})
 {{ Diskripsi Project }}
 
-Screenshot
+Screenshot<br>
 {{ Letakan gambar aplikasi disini }}
 
-Built With
+Built With<br>
 {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
 Created By
-{{ Nama Kelompok Anda }}
-Halaman Login (2 poin)
-Fungsi Login (1 poin)
-Data Model (1 poin)
-{{ Nama Kelompok Anda }}
-Halaman Pencarian (3 poin)
-Fungsi Pencarian (2 poin)
-{{ Nama Kelompok Anda }}
-Design Pattern BLoC (3 poin)
-Fungsi REST API (2 poin)
-Fungsi CRUD SQLite (3 poin)
-{{dst}}
+Leo Bimo Aryaputranto<br>
 Mata Kuliah
 COE-5109 Pemprograman Mobile.
 
