@@ -1,5 +1,4 @@
-# sumpah_pemuda_leo_bimo
-## {{SumpahPemuda}} ({{ Tugas ke #2 }})
+# {{SumpahPemuda}} ({{ Tugas ke #2 }})
 ## {{ Diskripsi Project }}
 
 ## Screenshot<br>
