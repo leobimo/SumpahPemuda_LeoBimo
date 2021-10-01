@@ -1,11 +1,11 @@
-# {{SumpahPemuda}} ({{ Tugas ke #2 }})
-## {{ Diskripsi Project }}
+# SumpahPemuda ( Tugas ke #2 )
+##  Diskripsi Project 
 
 ## Screenshot<br>
-{{ Letakan gambar aplikasi disini }}
+Letakan gambar aplikasi disini
 
 ## Built With<br>
-{{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
+Komponen apa saja yang dikerjakan untuk membuat aplikasi
 ## Created By
 Leo Bimo Aryaputranto<br>
 ## Mata Kuliah
