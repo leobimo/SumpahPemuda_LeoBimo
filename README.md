@@ -2,7 +2,7 @@
 ##  Diskripsi Project 
 
 ## Screenshot<br>
-<img src = SS.jpg>
+<img src = SS.jpeg>
 
 ## Built With<br>
 Flutter
