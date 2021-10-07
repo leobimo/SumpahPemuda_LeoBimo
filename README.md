@@ -1,6 +1,6 @@
 # SumpahPemuda ( Tugas ke #2 )
 ##  Diskripsi Project 
-
+Aplikasi ini menjelaskan tentang salah satu tokoh sumpah pemuda di indonesia.
 ## Screenshot<br>
 <img src = SS.jpeg>
 
