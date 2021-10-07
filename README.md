@@ -2,7 +2,7 @@
 ##  Diskripsi Project 
 
 ## Screenshot<br>
-Letakan gambar aplikasi disini
+<img src = SS.jpg>
 
 ## Built With<br>
 Flutter
